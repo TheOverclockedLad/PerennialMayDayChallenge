@@ -8,7 +8,7 @@ To execute: ./a.out
 
 int main()
 {
-	char T; scanf("%c", &T);
+	short T; scanf("%hi", &T);
 
 	for (; T > 0; T--)
 	{
